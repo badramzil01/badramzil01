@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badr Amzil</h1>
-<h3 align="center">Frontend Developer & IT Engineer from Morocco 🇲🇦</h3>
+<h3 align="center">IT Engineer from Morocco 🇲🇦</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=badramzil01&label=Profile%20views&color=0e75b6&style=flat" />
@@ -19,40 +19,18 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **PFE projects (React, FastAPI, Firebase)**
-- 🌱 Learning **Data Science, Machine Learning & Cloud**
-- 💬 Ask me about **React, Vue, GSAP, IT Support**
-- 📫 Reach me at **badramzil2001@gmail.com**
-- ⚡ Fun fact: *I think I am funny 😄*
+## 👨‍💻
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,csharp" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,bootstrap,tailwind,sass" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,graphql" />
-</p>
-
-### 🗄️ Databases & BaaS
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,js,python,fastapi,firebase,nodejs,docker,aws,linux,git" />
 </p>
 
 ---
@@ -67,17 +45,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badramzil01&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badramzil01&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=badramzil01&theme=onedark" />
+  <img src="https://github.com/badramzil01/badramzil01/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-✨ *Thanks for visiting my profile!* ✨
