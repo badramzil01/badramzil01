@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Badr Amzil</h1>
 <h3 align="center">IT Engineer from Morocco 🇲🇦</h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badramzil01&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/badr-amzil/" target="_blank">
@@ -31,23 +33,17 @@
 
 ---
 
-
-
----
-
 ## 🐍 Contribution Snake
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badramzil01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=150&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/badramzil01/badramzil01/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake.svg" />
+</picture>
 
 ---
 
-✨ *Thanks for visiting my GitHub profile!* ✨
+✨ Thanks for visiting my GitHub profile ✨
