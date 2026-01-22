@@ -33,15 +33,15 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Animated)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake-dark.gif" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake.svg" />
+    srcset="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake.gif" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/badramzil01/badramzil01/output/github-snake.gif" />
 </picture>
 
 ---
